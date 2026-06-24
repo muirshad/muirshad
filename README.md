@@ -36,7 +36,7 @@
 Experienced IT professional with a strong foundation in **backend development**, **software quality assurance**, and **project management**. I specialize in building scalable backend systems, integrating AI-based automation, and delivering robust, bug-free software. Adept at managing teams, solving complex problems, and ensuring project success from initiation to deployment.
 
 - 📍 Location: Karachi, Pakistan  
-- 📅 Date of Birth: 09/01/2001  
+- 📅 Date of Birth: **/**/****  
 - 📞 Phone: (+92) 311 6794206  
 - 📧 Email: muirshad2001@gmail.com  
 - 🌍 Nationality: Pakistani  
